@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aff2f524ee63c44d99c2e0e5fa7f36d, type: 3}
+  m_Name: Deck
+  m_EditorClassIdentifier: 
+  cards:
+  - islandObject: {fileID: 0}
+    islandName: ALOA
+    islandImg: {fileID: 21300000, guid: eeffe1c18aab70f429e18f49f093bb93, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: BARI
+    islandImg: {fileID: 21300000, guid: 1b924f914a041784c98e75db5a1bc6f6, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: COCO
+    islandImg: {fileID: 21300000, guid: b397c85d9fc742a4a9859882a8e3467b, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: DUDA
+    islandImg: {fileID: 21300000, guid: dcfa22ef6a8080447915000bbb591cf9, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: ELAI
+    islandImg: {fileID: 21300000, guid: e9975c72280e5e44da8ac976cffaec22, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: FAAA
+    islandImg: {fileID: 21300000, guid: ae149cf27c1bf0a4fb040913ddd1665a, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: GOLA
+    islandImg: {fileID: 21300000, guid: 0b8c2441427866148b0966d8a7acfc2e, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: HUNA
+    islandImg: {fileID: 21300000, guid: d452f3d29eefadd4faa588fcd2a27034, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: IFFI
+    islandImg: {fileID: 21300000, guid: 7b2b7bebaa8b16042b37d3d120480bb5, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: JOJO
+    islandImg: {fileID: 21300000, guid: 90032ac2749f459499c65ba3ed05e5d6, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: KAHU
+    islandImg: {fileID: 21300000, guid: c0c9916f4a3f58043a5563b817ca23ae, type: 3}
+    Count: 2
+  - islandObject: {fileID: 0}
+    islandName: LALE
+    islandImg: {fileID: 21300000, guid: b91e6884cb4bfef40bac08bd6ef1cc76, type: 3}
+    Count: 2

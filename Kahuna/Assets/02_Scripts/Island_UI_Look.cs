@@ -12,5 +12,6 @@ public class Island_UI_Look : MonoBehaviour
     public void CameraLook()
     {
         this.gameObject.transform.LookAt(Camera.main.transform);
+        
     }
 }
